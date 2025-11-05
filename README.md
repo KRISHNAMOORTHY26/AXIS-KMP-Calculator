@@ -10,7 +10,8 @@ Follow these steps to clone, open, and run the project successfully
 ### 1. Clone the Repository
 Open your terminal and run:
 ---bash
-git clone
+git clone https://github.com/KRISHNAMOORTHY26/AXIS-KMP-Calculator.git
+cd AXIS-KMP-Calculator
 
 2. Open the Project
 -------------------------
