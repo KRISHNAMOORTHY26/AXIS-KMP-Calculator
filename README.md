@@ -5,8 +5,12 @@ A cross-platform mobile project built using **Kotlin Multiplatform (KMP)** that 
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the Repository
+Follow these steps to clone, open, and run the project successfully
 
+### 1. Clone the Repository
+Open your terminal and run:
+---bash
+git clone
 
 2. Open the Project
 -------------------------
