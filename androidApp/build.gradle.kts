@@ -8,11 +8,11 @@ android {
     namespace = "com.krishna.axiscalculatorkmpapp.android"
     compileSdk = 34
     defaultConfig {
-//        applicationId = "com.krishna.axiscalculatorkmpapp.android"
+        applicationId = "com.krishna.axiscalculatorkmpapp.android"
         minSdk = 24
         targetSdk = 34
-//        versionCode = 1
-//        versionName = "1.0"
+        versionCode = 1
+        versionName = "1.0"
     }
     buildFeatures {
         compose = true
